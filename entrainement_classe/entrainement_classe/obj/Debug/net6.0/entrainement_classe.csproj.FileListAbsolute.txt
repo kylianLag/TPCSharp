@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\bin\Debug\net6.0\entrainement_classe.exe
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\bin\Debug\net6.0\entrainement_classe.deps.json
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\bin\Debug\net6.0\entrainement_classe.runtimeconfig.json
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\bin\Debug\net6.0\entrainement_classe.dll
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\bin\Debug\net6.0\entrainement_classe.pdb
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\entrainement_classe.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\entrainement_classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\entrainement_classe.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\entrainement_classe.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\entrainement_classe.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\entrainement_classe.dll
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\refint\entrainement_classe.dll
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\entrainement_classe.pdb
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\entrainement_classe.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\entrainement_classe\entrainement_classe\obj\Debug\net6.0\ref\entrainement_classe.dll

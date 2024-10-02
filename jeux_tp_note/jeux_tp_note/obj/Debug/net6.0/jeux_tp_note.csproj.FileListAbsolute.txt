@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\jeux_tp_note.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\jeux_tp_note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\jeux_tp_note.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\jeux_tp_note.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\jeux_tp_note.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\bin\Debug\net6.0\jeux_tp_note.exe
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\bin\Debug\net6.0\jeux_tp_note.deps.json
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\bin\Debug\net6.0\jeux_tp_note.runtimeconfig.json
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\bin\Debug\net6.0\jeux_tp_note.dll
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\bin\Debug\net6.0\jeux_tp_note.pdb
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\jeux_tp_note.dll
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\refint\jeux_tp_note.dll
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\jeux_tp_note.pdb
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\jeux_tp_note.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\jeux_tp_note\jeux_tp_note\obj\Debug\net6.0\ref\jeux_tp_note.dll

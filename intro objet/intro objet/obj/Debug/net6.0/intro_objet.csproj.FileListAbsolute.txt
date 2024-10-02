@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\intro objet\intro objet\bin\Debug\net6.0\intro_objet.exe
+C:\Users\Wallon\source\repos\intro objet\intro objet\bin\Debug\net6.0\intro_objet.deps.json
+C:\Users\Wallon\source\repos\intro objet\intro objet\bin\Debug\net6.0\intro_objet.runtimeconfig.json
+C:\Users\Wallon\source\repos\intro objet\intro objet\bin\Debug\net6.0\intro_objet.dll
+C:\Users\Wallon\source\repos\intro objet\intro objet\bin\Debug\net6.0\intro_objet.pdb
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\intro_objet.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\intro_objet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\intro_objet.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\intro_objet.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\intro_objet.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\intro_objet.dll
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\refint\intro_objet.dll
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\intro_objet.pdb
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\intro_objet.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\intro objet\intro objet\obj\Debug\net6.0\ref\intro_objet.dll

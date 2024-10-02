@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atroc\\source\\repos\\TPUno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|c:\\users\\atroc\\source\\repos\\tpuno\\tpuno\\defausse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|solutionrelative:tpuno\\defausse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|c:\\users\\atroc\\source\\repos\\tpuno\\tpuno\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|solutionrelative:tpuno\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|c:\\users\\atroc\\source\\repos\\tpuno\\tpuno\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|solutionrelative:tpuno\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|c:\\users\\atroc\\source\\repos\\tpuno\\tpuno\\pioche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|solutionrelative:tpuno\\pioche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|c:\\users\\atroc\\source\\repos\\tpuno\\tpuno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|solutionrelative:tpuno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|c:\\users\\atroc\\source\\repos\\tpuno\\tpuno\\tpuno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|solutionrelative:tpuno\\tpuno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|c:\\users\\atroc\\source\\repos\\tpuno\\tpuno\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93F9933-B6BA-4536-8383-D3266DB6F8F5}|TPUno\\TPUno.csproj|solutionrelative:tpuno\\carte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Partie.cs",
+              "DocumentMoniker": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Partie.cs",
+              "RelativeDocumentMoniker": "TPUno\\Partie.cs",
+              "ToolTip": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Partie.cs",
+              "RelativeToolTip": "TPUno\\Partie.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:30:59.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Defausse.cs",
+              "DocumentMoniker": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Defausse.cs",
+              "RelativeDocumentMoniker": "TPUno\\Defausse.cs",
+              "ToolTip": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Defausse.cs",
+              "RelativeToolTip": "TPUno\\Defausse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:17:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pioche.cs",
+              "DocumentMoniker": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Pioche.cs",
+              "RelativeDocumentMoniker": "TPUno\\Pioche.cs",
+              "ToolTip": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Pioche.cs",
+              "RelativeToolTip": "TPUno\\Pioche.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:10:26.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TPUno.csproj",
+              "DocumentMoniker": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\TPUno.csproj",
+              "RelativeDocumentMoniker": "TPUno\\TPUno.csproj",
+              "ToolTip": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\TPUno.csproj",
+              "RelativeToolTip": "TPUno\\TPUno.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T06:03:36.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carte.cs",
+              "DocumentMoniker": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Carte.cs",
+              "RelativeDocumentMoniker": "TPUno\\Carte.cs",
+              "ToolTip": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Carte.cs",
+              "RelativeToolTip": "TPUno\\Carte.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:01:01.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Joueur.cs",
+              "RelativeDocumentMoniker": "TPUno\\Joueur.cs",
+              "ToolTip": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Joueur.cs",
+              "RelativeToolTip": "TPUno\\Joueur.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:05:35.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Program.cs",
+              "RelativeDocumentMoniker": "TPUno\\Program.cs",
+              "ToolTip": "C:\\Users\\atroc\\source\\repos\\TPUno\\TPUno\\Program.cs",
+              "RelativeToolTip": "TPUno\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:01:38.878Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\tp2\tp2\bin\Debug\net6.0\tp2.exe
+C:\Users\Wallon\source\repos\tp2\tp2\bin\Debug\net6.0\tp2.deps.json
+C:\Users\Wallon\source\repos\tp2\tp2\bin\Debug\net6.0\tp2.runtimeconfig.json
+C:\Users\Wallon\source\repos\tp2\tp2\bin\Debug\net6.0\tp2.dll
+C:\Users\Wallon\source\repos\tp2\tp2\bin\Debug\net6.0\tp2.pdb
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\tp2.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\tp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\tp2.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\tp2.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\tp2.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\tp2.dll
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\refint\tp2.dll
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\tp2.pdb
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\tp2.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\tp2\tp2\obj\Debug\net6.0\ref\tp2.dll

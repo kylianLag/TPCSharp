@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\JeuxDuMorpion.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\JeuxDuMorpion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\JeuxDuMorpion.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\JeuxDuMorpion.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\JeuxDuMorpion.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\bin\Debug\net6.0\JeuxDuMorpion.exe
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\bin\Debug\net6.0\JeuxDuMorpion.deps.json
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\bin\Debug\net6.0\JeuxDuMorpion.runtimeconfig.json
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\bin\Debug\net6.0\JeuxDuMorpion.dll
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\bin\Debug\net6.0\JeuxDuMorpion.pdb
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\JeuxDuMorpion.dll
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\refint\JeuxDuMorpion.dll
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\JeuxDuMorpion.pdb
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\JeuxDuMorpion.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\JeuxDuMorpion\JeuxDuMorpion\obj\Debug\net6.0\ref\JeuxDuMorpion.dll

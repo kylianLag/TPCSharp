@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\test\test\bin\Debug\net6.0\cours 1.exe
+C:\Users\Wallon\source\repos\test\test\bin\Debug\net6.0\cours 1.deps.json
+C:\Users\Wallon\source\repos\test\test\bin\Debug\net6.0\cours 1.runtimeconfig.json
+C:\Users\Wallon\source\repos\test\test\bin\Debug\net6.0\cours 1.dll
+C:\Users\Wallon\source\repos\test\test\bin\Debug\net6.0\cours 1.pdb
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\cours 1.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\cours 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\cours 1.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\cours 1.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\cours 1.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\cours 1.dll
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\refint\cours 1.dll
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\cours 1.pdb
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\cours 1.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\test\test\obj\Debug\net6.0\ref\cours 1.dll

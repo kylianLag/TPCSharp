@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\bin\Debug\net6.0\vraijeux.exe
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\bin\Debug\net6.0\vraijeux.deps.json
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\bin\Debug\net6.0\vraijeux.runtimeconfig.json
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\bin\Debug\net6.0\vraijeux.dll
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\bin\Debug\net6.0\vraijeux.pdb
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\vraijeux.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\vraijeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\vraijeux.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\vraijeux.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\vraijeux.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\vraijeux.dll
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\refint\vraijeux.dll
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\vraijeux.pdb
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\vraijeux.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\vraijeux\vraijeux\obj\Debug\net6.0\ref\vraijeux.dll

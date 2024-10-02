@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\AP3V\AP3V\bin\Debug\net6.0\AP3V.exe
+C:\Users\Wallon\source\repos\AP3V\AP3V\bin\Debug\net6.0\AP3V.deps.json
+C:\Users\Wallon\source\repos\AP3V\AP3V\bin\Debug\net6.0\AP3V.runtimeconfig.json
+C:\Users\Wallon\source\repos\AP3V\AP3V\bin\Debug\net6.0\AP3V.dll
+C:\Users\Wallon\source\repos\AP3V\AP3V\bin\Debug\net6.0\AP3V.pdb
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\AP3V.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\AP3V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\AP3V.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\AP3V.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\AP3V.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\AP3V.dll
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\refint\AP3V.dll
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\AP3V.pdb
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\AP3V.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\AP3V\AP3V\obj\Debug\net6.0\ref\AP3V.dll

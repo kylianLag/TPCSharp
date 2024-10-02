@@ -1,0 +1,17 @@
+C:\Users\Wallon\source\repos\jeux1\jeux1\bin\Debug\net6.0-windows\jeux1.exe
+C:\Users\Wallon\source\repos\jeux1\jeux1\bin\Debug\net6.0-windows\jeux1.deps.json
+C:\Users\Wallon\source\repos\jeux1\jeux1\bin\Debug\net6.0-windows\jeux1.runtimeconfig.json
+C:\Users\Wallon\source\repos\jeux1\jeux1\bin\Debug\net6.0-windows\jeux1.dll
+C:\Users\Wallon\source\repos\jeux1\jeux1\bin\Debug\net6.0-windows\jeux1.pdb
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.Form1.resources
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.csproj.GenerateResource.cache
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.dll
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\refint\jeux1.dll
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.pdb
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\jeux1.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\jeux1\jeux1\obj\Debug\net6.0-windows\ref\jeux1.dll

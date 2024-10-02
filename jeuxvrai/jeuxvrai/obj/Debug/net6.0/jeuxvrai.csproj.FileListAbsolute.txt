@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\bin\Debug\net6.0\jeuxvrai.exe
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\bin\Debug\net6.0\jeuxvrai.deps.json
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\bin\Debug\net6.0\jeuxvrai.runtimeconfig.json
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\bin\Debug\net6.0\jeuxvrai.dll
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\bin\Debug\net6.0\jeuxvrai.pdb
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\jeuxvrai.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\jeuxvrai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\jeuxvrai.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\jeuxvrai.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\jeuxvrai.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\jeuxvrai.dll
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\refint\jeuxvrai.dll
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\jeuxvrai.pdb
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\jeuxvrai.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\jeuxvrai\jeuxvrai\obj\Debug\net6.0\ref\jeuxvrai.dll

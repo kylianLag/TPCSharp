@@ -1,0 +1,15 @@
+C:\Users\Wallon\source\repos\meteo\meteo\bin\Debug\net6.0\meteo.exe
+C:\Users\Wallon\source\repos\meteo\meteo\bin\Debug\net6.0\meteo.deps.json
+C:\Users\Wallon\source\repos\meteo\meteo\bin\Debug\net6.0\meteo.runtimeconfig.json
+C:\Users\Wallon\source\repos\meteo\meteo\bin\Debug\net6.0\meteo.dll
+C:\Users\Wallon\source\repos\meteo\meteo\bin\Debug\net6.0\meteo.pdb
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\meteo.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\meteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\meteo.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\meteo.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\meteo.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\meteo.dll
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\refint\meteo.dll
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\meteo.pdb
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\meteo.genruntimeconfig.cache
+C:\Users\Wallon\source\repos\meteo\meteo\obj\Debug\net6.0\ref\meteo.dll

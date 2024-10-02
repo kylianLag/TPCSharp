@@ -1,0 +1,14 @@
+C:\Users\atroc\source\repos\TPUno\TPUno\bin\Debug\net8.0\TPUno.exe
+C:\Users\atroc\source\repos\TPUno\TPUno\bin\Debug\net8.0\TPUno.deps.json
+C:\Users\atroc\source\repos\TPUno\TPUno\bin\Debug\net8.0\TPUno.runtimeconfig.json
+C:\Users\atroc\source\repos\TPUno\TPUno\bin\Debug\net8.0\TPUno.dll
+C:\Users\atroc\source\repos\TPUno\TPUno\bin\Debug\net8.0\TPUno.pdb
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\TPUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\TPUno.AssemblyInfoInputs.cache
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\TPUno.AssemblyInfo.cs
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\TPUno.csproj.CoreCompileInputs.cache
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\TPUno.dll
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\refint\TPUno.dll
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\TPUno.pdb
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\TPUno.genruntimeconfig.cache
+C:\Users\atroc\source\repos\TPUno\TPUno\obj\Debug\net8.0\ref\TPUno.dll
